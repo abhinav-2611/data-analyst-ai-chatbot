@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Data Analyst AI Chatbot
 
 A portfolio-ready Streamlit application that lets users upload CSV/Excel data, explore it, run safe read-only SQL, and — when an LLM API key is configured — ask natural-language questions that are converted into validated SQLite queries.
@@ -176,3 +177,7 @@ If the API returns a quota error, the application can calculate the answer direc
 ```bash
 pytest -v
 ```
+=======
+# data-analyst-ai-chatbot
+AI-powered data analysis chatbot using Python, Pandas, SQL, LLM and Streamlit.
+>>>>>>> 986cb75309a0a0c0650b501f84eee6749b8dbf32
