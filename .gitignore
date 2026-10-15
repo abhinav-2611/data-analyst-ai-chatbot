@@ -1,9 +1,17 @@
-.env
+# Virtual environment folder
 .venv/
 venv/
+ENV/
+
+# Sensitive API Keys and environment variables
+.env
+
+# Python caching folders
 __pycache__/
 *.pyc
-.pytest_cache/
-database/*.db
-.streamlit/secrets.toml
-.DS_Store
+
+# Local SQLite databases or uploaded user data files
+*.db
+*.sqlite
+data/
+database/
