@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📊 Data Analyst AI Chatbot
 
 A portfolio-ready Streamlit application that lets users upload CSV/Excel data, explore it, run safe read-only SQL, and — when an LLM API key is configured — ask natural-language questions that are converted into validated SQLite queries.
